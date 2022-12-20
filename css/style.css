@@ -371,7 +371,7 @@ body {
 }
 .contacts-text{
   /* color: var(--accent-color); */
-  color: green;
+  color: black;
   text-transform: uppercase;
 }
 .beebackground{
