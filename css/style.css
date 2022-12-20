@@ -972,7 +972,7 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.875;
-  background-color: var(--modal-btn);
+  background-color: var(--accent-color);
   letter-spacing: 0.06em;
   border-color: transparent;
   border-radius: 4px;
